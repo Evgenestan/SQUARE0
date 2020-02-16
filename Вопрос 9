@@ -1,1 +1,0 @@
-select product.name, categ.name from product with left outer join categ on product.id = categ.product_id
